@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jijithecat
+- 👀 I’m interested in various technologies
+- 🌱 I’m currently learning Javascript and Python
+- 🇧🇷🇯🇵🇪🇸 I also enjoy learning [human] languages
